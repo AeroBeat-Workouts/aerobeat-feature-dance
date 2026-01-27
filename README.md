@@ -1,6 +1,6 @@
-# AeroBeat Feature - Dance
+# AeroBeat Dance Feature
 
-This is the official template for creating a **Feature** repository within the AeroBeat ecosystem.
+This is the official Dance gameplay feature for the AeroBeat codebase.
 
 A **Feature** contains the pure gameplay logic for a specific mode (e.g., Boxing, Flow, Step). It is designed to be modular and plugged into an **Assembly**.
 
